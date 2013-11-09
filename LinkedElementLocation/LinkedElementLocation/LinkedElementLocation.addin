@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command LinkedElementLocation</Text>
+    <Description>Some description for LinkedElementLocation</Description>
+    <Assembly>LinkedElementLocation.dll</Assembly>
+    <FullClassName>LinkedElementLocation.Command</FullClassName>
+    <ClientId>39e29754-d54f-4517-9942-3700edf1a3c6</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
